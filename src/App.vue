@@ -57,7 +57,7 @@ export default {
 input,
 select {
     margin: 20px 0;
-    padding: 10px;
+    padding: 10git branchpx;
     width: 100%;
     box-sizing: border-box;
 }
